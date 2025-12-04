@@ -6,7 +6,7 @@
 - Microcontroller: ESP32
 - Back-end: NodeJS server using Express.js framework
 - Database: PostgreSQL
-- Front-end: HTML5 & EJS templating, CSS3, ECMAScript 2024
+- Front-end: HTML5, EJS, CSS3, JavaScript( ECMAScript 2020)
 
 ## What is Node and Sprout
 ---
