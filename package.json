@@ -1,0 +1,36 @@
+{
+  "name": "node_and_sprout",
+  "version": "1.0.0",
+  "description": "smart irrigation system",
+  "keywords": [
+    "smart-irrigation",
+    "garden",
+    "diy",
+    "iot",
+    "esp32",
+    "raspberry-pi",
+    "nodejs",
+    "mysql"
+  ],
+  "homepage": "https://github.com/shaunso/node-and-sprout#readme",
+  "bugs": {
+    "url": "https://github.com/shaunso/node-and-sprout/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shaunso/node-and-sprout.git"
+  },
+  "license": "AGPL-3.0-or-later",
+  "author": "svm",
+  "type": "module",
+  "main": "controller/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.11"
+  }
+}
